@@ -13,7 +13,7 @@ Welcome to my portfolio where I showcase data analysis projects that demonstrate
    - Description: Built an interactive Power BI dashboard to visualize quarterly sales trends.
 
 3. **Federal Tax Calculator**
-   - [View Project](https://github.com/kojobotwe/federal-tax-calculator)
+   - [View Project] ([https://github.com/kojobotwe/federal-tax-calculator](https://github.com/KojoBotweOsei/Tax-Project))
    - Description: A Python script that calculates federal income tax for U.S. citizens based on the 2023 tax brackets, complete with a formatted tax receipt.
 
 4. **Correlation Analysis: Feedback Loops and Interruptions**
