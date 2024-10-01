@@ -17,7 +17,7 @@ Welcome to my portfolio where I showcase data analysis projects that demonstrate
    - Description: A Python script that calculates federal income tax for U.S. citizens based on the 2023 tax brackets, complete with a formatted tax receipt.
 
 4. **Correlation Analysis: Feedback Loops and Interruptions**
-   - [View Project](https://github.com/kojobotwe/feedback-loops-analysis)  *(Make sure to create and link to this repository)*
+   - [View Project] ([https://github.com/kojobotwe/feedback-loops-analysis](https://github.com/KojoBotweOsei/Pearson-Correlation)  
    - Description: Analyzed the relationship between feedback loop turntaking and interruptions using Pearson correlation. Visualized the correlation with a scatter plot and calculated the R-squared value to assess the strength of the relationship.
 
 ## Skills
