@@ -9,7 +9,7 @@ Welcome to my portfolio where I showcase data analysis projects that demonstrate
    - Description: Predicted customer churn using machine learning models in Python, achieving 85% accuracy.
 
 2. **Sales Data Dashboard**
-   - [View Project](https://github.com/kojobotwe/sales-data-dashboard)
+   - [View Project]([https://github.com/kojobotwe/sales-data-dashboard](https://github.com/KojoBotweOsei/Sales-Data-Dashboard/tree/main))
    - Description: Built an interactive Power BI dashboard to visualize quarterly sales trends.
 
 3. **Federal Tax Calculator**
