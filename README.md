@@ -28,5 +28,5 @@ Welcome to my portfolio where I showcase data analysis projects that demonstrate
 
 ## Contact
 - LinkedIn: [linkedin.com/in/kojo-bao](https://linkedin.com/in/kojo-bao)
-- Email: kojobao123@email.com
+- Email: kojobao123@gmail.com
 
