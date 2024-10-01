@@ -5,7 +5,7 @@ Welcome to my portfolio where I showcase data analysis projects that demonstrate
 ## Projects
 
 1. **Customer Churn Prediction**
-   - [View Project](https://github.com/kojobotwe/customer-churn)
+   - [View Project]([https://github.com/kojobotwe/customer-churn](https://github.com/KojoBotweOsei/customer-churn-prediction)
    - Description: Predicted customer churn using machine learning models in Python, achieving 85% accuracy.
 
 2. **Sales Data Dashboard**
