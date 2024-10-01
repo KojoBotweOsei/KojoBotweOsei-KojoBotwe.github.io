@@ -27,6 +27,6 @@ Welcome to my portfolio where I showcase data analysis projects that demonstrate
 - Data Visualization (Tableau, Power BI)
 
 ## Contact
-- LinkedIn: [linkedin.com/in/kojobotwe](https://linkedin.com/in/kojo-bao)
+- LinkedIn: [linkedin.com/in/kojo-bao](https://linkedin.com/in/kojo-bao)
 - Email: kojobao123@email.com
 
