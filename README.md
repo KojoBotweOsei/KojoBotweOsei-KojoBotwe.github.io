@@ -18,7 +18,7 @@ Welcome to my portfolio where I showcase data analysis projects that demonstrate
 
 4. **Correlation Analysis: Feedback Loops and Interruptions**
    - [View Project](https://github.com/kojobotwe/feedback-loops-analysis)  *(Make sure to create and link to this repository)*
-   - Description: Analyzed the relationship between feedback loop durations and interruptions using Pearson correlation. Visualized the correlation with a scatter plot and calculated the R-squared value to assess the strength of the relationship.
+   - Description: Analyzed the relationship between feedback loop turntaking and interruptions using Pearson correlation. Visualized the correlation with a scatter plot and calculated the R-squared value to assess the strength of the relationship.
 
 ## Skills
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
